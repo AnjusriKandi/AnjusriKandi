@@ -6,8 +6,6 @@ A passionate Computer Science and Engineering student from Prasad V Potluri Sidd
 **AnjusriKandi/AnjusriKandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on:  
   - Improving my **Problem Solving Skills**   
   - A **Real-Time Indian Sign Language Recognition** system using dynamic gesture recognition  
