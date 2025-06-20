@@ -29,5 +29,3 @@ A passionate Computer Science and Engineering student from Prasad V Potluri Sidd
 - 📫 How to reach me:  
   - Email: anjusrikandi@gmail.com  
   - LinkedIn: [Anjusri Kandi](https://www.linkedin.com/in/anjusrikandi)
-
-- 😄 Pronouns: She/Her
