@@ -7,8 +7,7 @@ A passionate Computer Science and Engineering student from Prasad V Potluri Sidd
 -->
 
 - 🔭 I’m currently working on:  
-  - Improving my **Problem Solving Skills**   
-  - A **Real-Time Indian Sign Language Recognition** system using dynamic gesture recognition  
+  - Improving my **Problem Solving Skills**    
 
 - 🌱 I’m currently learning:  
   - Data Structures and Algorithms
@@ -24,7 +23,7 @@ A passionate Computer Science and Engineering student from Prasad V Potluri Sidd
 
 - 💬 Ask me about:  
   - Full Stack Development (MERN)  
-  - UI/UX design and animations  
+  - UI/UX design
   - Building college-level technical projects  
 
 - 📫 How to reach me:  
@@ -32,5 +31,3 @@ A passionate Computer Science and Engineering student from Prasad V Potluri Sidd
   - LinkedIn: [Anjusri Kandi](https://www.linkedin.com/in/anjusrikandi)
 
 - 😄 Pronouns: She/Her
-
-- ⚡ Fun fact: I love writing poems, and blending tech with creativity!
